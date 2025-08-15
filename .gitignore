@@ -1,0 +1,6 @@
+*.cph
+*.bin
+.vscode
+*.exe
+output.txt
+input.txt
